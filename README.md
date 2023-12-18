@@ -130,5 +130,4 @@ When finished with using all the resources, its a best practice to delete all th
 </p>
 Go to the Resource Group section and select delete to open a window on the right. Deletion of the Resource Group requires verification by entering its name, also it deletes all the resources in that group
 </p>
-<ul>
 This is the conclusion of the Basics of Azure Portal
