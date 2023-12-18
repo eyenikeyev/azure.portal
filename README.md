@@ -84,3 +84,26 @@ After validation passed, click on Create in the bottom and your Resource Group i
 <p>
 The Storage Account is a resource in Microsoft Azure that serves as a general 500 terabyte storage unit for data in the cloud, more information can be found at: https://azure.microsoft.com/en-us/products/category/storage/
 </p>
+Go to the Storage Account page and click on create. Storage Accounts have multiple areas for creation.
+</p>
+<b>Basics</b>: the resource group the resource will be in and instance details for the name of the storage account and determining performance
+</li>
+</p>
+<b>Advanced</b>: more complex options such as adjusting security and protocols; some are not availabel depending on your storage account's instance details from Basics
+</li>
+</p>
+<b>Networking</b>: Connectivity and Routing Options
+</li>
+</p>
+<b>Data Protection</b>: Enables how data is recovered and tracked in storage
+</li>
+</p>
+<b>Encryption</b>: Determines how data is encrypted, uses Microsoft managed keys by default
+</li>
+</p>
+<b>Tags</b>: same as creation of tags in Resource Group creation
+</li>
+</p>
+<b>Review</b>: checking validation and overview of the resource's information
+</li>
+</p>
