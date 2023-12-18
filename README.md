@@ -111,3 +111,5 @@ After entering information, click on Create to create the resource and wait for 
 </p>
 To store data in the Storage Account, we need to create a container by going to the storage account you made and navigating to Containers under Data Storage. Click on (plus sign) Container and enter information in the window on the right
 </p>
+<img src="https://i.imgur.com/ZQCLlL1.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
