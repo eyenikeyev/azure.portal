@@ -70,3 +70,5 @@ After validation passed, click on Create in the bottom and your Resource Group i
 <b>Note</b>: based on server speed and internet connection, resources and resource groups will take some time to deploy, take note of the notification bell at the top right to see when deployment is complete
 </li>
 </p>
+<img src="https://i.imgur.com/8qRWajw.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
