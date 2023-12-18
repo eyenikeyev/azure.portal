@@ -117,3 +117,12 @@ Use the Upload icon in the container to upload files in selected container. If t
 </p>
 <img src="https://i.imgur.com/vYpAIK1.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
+</ul>
+</p>
+
+<br />
+
+<h2>Clean Up</h2>
+
+<p>
+  <ul>
