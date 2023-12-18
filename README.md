@@ -33,3 +33,9 @@ Upon logging into Azure Portal, the first image you should always see is the Hom
 </p>
 Azure Services: The Services in Azure Portal that updates with the most recent Resources used; by all of Azure Portal's Services can be locateed on a seperate page by going to More Services
 </p>
+Resources: A listing that displays and updates whenever Resources (Resource Groups, Virtual Machines, Network Security Groups, etc.) are created or recently modified
+</p>
+Navigate: A quality of life heading allowing users to easily navigate to the essentials of their account, notably Resources and Subscriptions
+</p>
+Tools: Heading that offers quick links to the infrastructure and cost of the resources used in Azure as well as the online course Microsoft Learn for further education how to use Microsoft Azure
+</p>
