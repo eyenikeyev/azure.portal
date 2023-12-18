@@ -30,4 +30,5 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
 <ul>
 Upon logging into Azure Portal, the first image you should always see is the Home Page. The Home Page offers multiple ways to access the Azure Portal's resources, one being the search bar at the top of the center and notable headings.
 <p>
-<li><b>Azure Services</b><li>:
+<li><b>Azure Services</b><li>: The Services in Azure Portal that updates with the most recent Resources used; by all of Azure Portal's Services can be locateed on a seperate page by going to More Services
+</li>
