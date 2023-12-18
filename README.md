@@ -82,3 +82,5 @@ After validation passed, click on Create in the bottom and your Resource Group i
 <p>
   <ul>
 <p>
+The Storage Account is a resource in Microsoft Azure that serves as a general 500 terabyte storage unit for data in the cloud, more information can be found at here: https://azure.microsoft.com/en-us/products/category/storage/
+</p>
