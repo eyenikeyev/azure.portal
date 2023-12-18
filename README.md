@@ -43,3 +43,12 @@ Upon logging into Azure Portal, the first image you should always see is the Hom
 </p>
 <img src="https://i.imgur.com/vCoUald.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
+</ul>
+</p>
+
+<br/>
+
+<h3>Creating a Resource Group</h3>
+
+<p>
+  <ul>
