@@ -107,3 +107,7 @@ Go to the Storage Account page and click on create. Storage Accounts have multip
 <b>Review</b>: checking validation and overview of the resource's information
 </li>
 </p>
+After entering information, click on Create to create the resource and wait for deployment to finish.
+</p>
+To store data in the Storage Account, we need to create a container by going to the storage account you made and navigating to Containers under Data Storage. Click on (plus sign) Container and enter information in the window on the right
+</p>
