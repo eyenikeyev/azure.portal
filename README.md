@@ -115,3 +115,5 @@ To store data in the Storage Account, we need to create a container by going to 
 </p>
 Use the Upload icon in the container to upload files in selected container. If the file is a coding language or txt file, you can edit its information in Azure
 </p>
+<img src="https://i.imgur.com/vYpAIK1.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
