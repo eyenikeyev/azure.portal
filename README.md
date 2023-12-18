@@ -126,3 +126,8 @@ Use the Upload icon in the container to upload files in selected container. If t
 
 <p>
   <ul>
+When finished with using all the resources, its a best practice to delete all the resources in the Azure Portal to prevent the billing cost accumulation
+</p>
+Go to the Resource Group section and select delete to open a window on the right. Deletion of the Resource Group requires verification by entering its name, also it deletes all the resources in that group
+</p>
+This is the conclusion of the Basics of Azure Portal
