@@ -23,9 +23,9 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
 
 
 <h2>Essentials</h2>
-
+<ul>
 <h3>Navigating Azure Portal</h3>
-
+<ul>
 <p>
 
 Upon logging into Azure Portal, the first image you should always see is the Home Page. The Home Page offers multiple ways to access the Azure Portal's resources, one being the search bar at the top of the center and notable headings.
