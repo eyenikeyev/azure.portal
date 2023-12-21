@@ -21,11 +21,11 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
 
 
 
-
+<ul>
 <h2>Essentials</h2>
 
-<p>
-    <h3>Navigating Azure Portal</h3>
+</p>
+<h3>Navigating Azure Portal</h3>
 <ul>
 <p>
 </p>
