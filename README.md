@@ -83,7 +83,7 @@ The Storage Account is a resource in Microsoft Azure that serves as a general 50
 <b>Basics</b>: the resource group the resource will be in and instance details for the name of the storage account and determining performance
 </li>
 </p>
-<b>Advanced</b>: more complex options such as adjusting security and protocols; some are not availabel depending on your storage account's instance details from Basics
+<b>Advanced</b>: more complex options such as adjusting security and protocols; some are not available depending on your storage account's instance details from Basics
 </li>
 </p>
 <b>Networking</b>: Connectivity and Routing Options
