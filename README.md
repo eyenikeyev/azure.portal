@@ -101,9 +101,7 @@ The Storage Account is a resource in Microsoft Azure that serves as a general 50
 <b>Review</b>: checking validation and overview of the resource's information
 </li>
 </p>
-After entering information, click on Create to create the resource and wait for deployment to finish.
-</p>
-To store data in the Storage Account, we need to create a container by going to the storage account you made and navigating to Containers under Data Storage. Click on (plus sign) Container and enter information in the window on the right
+After entering information, click on Create to create the resource and wait for deployment to finish. To store data in the Storage Account, we need to create a container by going to the storage account you made and navigating to Containers under Data Storage. Click on (plus sign) Container and enter information in the window on the right
 </p>
 <img src="https://i.imgur.com/ZQCLlL1.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
