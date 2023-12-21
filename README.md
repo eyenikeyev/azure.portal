@@ -21,7 +21,6 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
 
 
 
-<ul>
 <h2>Essentials</h2>
 
 </p>
