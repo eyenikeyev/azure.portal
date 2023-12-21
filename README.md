@@ -124,4 +124,4 @@ Go to the Resource Group section and select delete to open a window on the right
 </p>
 <img src="https://i.imgur.com/zaWbNLc.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
-This is the conclusion of the Basics of Azure Portal
+This is the conclusion of the Basics of Azure Portal lab
