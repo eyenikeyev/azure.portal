@@ -60,10 +60,8 @@ Resource Groups serve as the base for many of Microsoft Azure's services and too
 <b>Tags</b>: simple organizational tool for managing resources and view consolidated billing by applying the same tag to multiple resources and resource groups
 </li>
 </p>
-<b>Review + Create</b>: Validation process to check if credentials are filled and subscription is usable
+<b>Review + Create</b>: Validation process to check if credentials are filled and subscription is usable. After validation passed, click on Create in the bottom and your Resource Group is created.
 </li>
-<p>
-After validation passed, click on Create in the bottom and your Resource Group is created.
 </p>
 <b>Note</b>: based on server speed and internet connection, resources and resource groups will take some time to deploy, take note of the notification bell at the top right to see when deployment is complete
 </li>
