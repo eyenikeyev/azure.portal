@@ -10,7 +10,7 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
 <h2>Environments and Technologies Used</h2>
 
 <ul>
-  <li>Microsoft Azure Portal</li>
+<li>Microsoft Azure Portal</li>
 </ul>
 
 </br>
@@ -24,6 +24,7 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
 
 <h2>Essentials</h2>
 <ul>
+<p>
 <h3>Navigating Azure Portal</h3>
 <ul>
 <p>
