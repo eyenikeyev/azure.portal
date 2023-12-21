@@ -52,9 +52,7 @@ Upon logging into Azure Portal, the first image you should always see is the Hom
 
 <p>
 
-Resource Groups serve as the base for many of Microsoft Azure's services and tools. To use Virtual Machine or Network Security Groups, you need a Resource Group. Go to the Resource Group page and click on Create
-</p>
-Resource Groups have three fields for creation
+Resource Groups serve as the base for many of Microsoft Azure's services and tools. To use Virtual Machine or Network Security Groups, you need a Resource Group. Go to the Resource Group page and click on Create. Resource Groups have three fields for creation.
 </p>
 <b>Basics</b>: Tab where you enter the name of your Resource Group and Subscription it is linked to for billing upon use of Resources in that Group
 </li>
