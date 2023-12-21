@@ -38,7 +38,7 @@ Upon logging into Azure Portal, the first image you should always see is the Hom
 <b>Navigate</b>: A quality of life heading allowing users to easily navigate to the essentials of their account, notably Resources and Subscriptions
 </li>
 </p>
-<b>Tools</b>: Heading that offers quick links to the infrastructure and cost of the resources used in Azure as well as the online course Microsoft Learn for further education how to use Microsoft Azure
+<b>Tools</b>: Heading that offers quick links to the infrastructure and cost of the resources used in Azure as well as the online course Microsoft Learn for further education on how to use Microsoft Azure
 </li>
 </p>
 <img src="https://i.imgur.com/vCoUald.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
