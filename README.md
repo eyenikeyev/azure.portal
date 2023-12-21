@@ -27,7 +27,7 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
 <h3>Navigating Azure Portal</h3>
 
 <p>
-<ul>
+
 Upon logging into Azure Portal, the first image you should always see is the Home Page. The Home Page offers multiple ways to access the Azure Portal's resources, one being the search bar at the top of the center and notable headings.
 <p>
 </p>
@@ -51,7 +51,7 @@ Upon logging into Azure Portal, the first image you should always see is the Hom
 <h3>Creating a Resource Group</h3>
 
 <p>
-  <ul>
+
 Resource Groups serve as the base for many of Microsoft Azure's services and tools. To use Virtual Machine or Network Security Groups, you need a Resource Group. Go to the Resource Group page and click on Create
 </p>
 Resource Groups have three fields for creation
@@ -80,7 +80,7 @@ After validation passed, click on Create in the bottom and your Resource Group i
 <h3>Creating and using the Storage Account</h3>
 
 <p>
-  <ul>
+
 <p>
 The Storage Account is a resource in Microsoft Azure that serves as a general 500 terabyte storage unit for data in the cloud, more information can be found at: https://azure.microsoft.com/en-us/products/category/storage/
 </p>
@@ -125,7 +125,7 @@ Use the Upload icon in the container to upload files in selected container. If t
 <h2>Clean Up</h2>
 
 <p>
-  <ul>
+
 When finished with using all the resources, its a best practice to delete all the resources in the Azure Portal to prevent the billing cost accumulation
 </p>
 Go to the Resource Group section and select delete to open a window on the right. Deletion of the Resource Group requires verification by entering its name, also it deletes all the resources in that group
