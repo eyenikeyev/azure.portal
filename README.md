@@ -9,7 +9,7 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
 
 <h2>Environments and Technologies Used</h2>
 
-<ul>
+</p>
 <li>Microsoft Azure Portal</li>
 </ul>
 
