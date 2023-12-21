@@ -20,7 +20,7 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
 <li>Microsoft Azure Account and Subscription</li>
 <ul>
 
-<br />
+
 
 <h2>Essentials</h2>
 
