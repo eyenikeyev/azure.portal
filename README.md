@@ -18,7 +18,7 @@ This tutorial goes over how to use Microsoft Azure Portal as well as how to crea
 <h2>List of Prerequisites</h2>
 <ul>
 <li>Microsoft Azure Account and Subscription</li>
-<ul>
+
 
 
 
