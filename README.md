@@ -78,9 +78,7 @@ Resource Groups serve as the base for many of Microsoft Azure's services and too
 <p>
 
 <p>
-The Storage Account is a resource in Microsoft Azure that serves as a general 500 terabyte storage unit for data in the cloud, more information can be found at: https://azure.microsoft.com/en-us/products/category/storage/
-</p>
-Go to the Storage Account page and click on create. Storage Accounts have multiple areas for creation.
+The Storage Account is a resource in Microsoft Azure that serves as a general 500 terabyte storage unit for data in the cloud, more information can be found at: https://azure.microsoft.com/en-us/products/category/storage/. Go to the Storage Account page and click on create. Storage Accounts have multiple areas for creation.
 </p>
 <b>Basics</b>: the resource group the resource will be in and instance details for the name of the storage account and determining performance
 </li>
