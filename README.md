@@ -3,7 +3,7 @@
 </p>
 
 <h1 align = "center">Basics of Azure Portal</h1>
-This tutorial goes over how to use Microsoft Azure Portal as well as how to create/manage Resource Groups and Storage Accounts within Azure Portal.
+This tutorial goes over how to use Microsoft Azure Portal as well as how to create and manage Resource Groups and Storage Accounts within Azure Portal.
 
 <br />
 
