@@ -41,7 +41,7 @@ Upon logging into Azure Portal, the first image you should always see is the Hom
 <b>Tools</b>: Heading that offers quick links to the infrastructure and cost of the resources used in Azure as well as the online course Microsoft Learn for further education on how to use Microsoft Azure
 </li>
 </p>
-<img src="https://i.imgur.com/vCoUald.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vCoUald.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 </ul>
 </p>
@@ -66,7 +66,7 @@ Resource Groups serve as the base for many of Microsoft Azure's services and too
 <b>Note</b>: based on server speed and internet connection, resources and resource groups will take some time to deploy, take note of the notification bell at the top right to see when deployment is complete
 </li>
 </p>
-<img src="https://i.imgur.com/8qRWajw.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8qRWajw.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 </ul>
 </p>
@@ -103,11 +103,11 @@ The Storage Account is a resource in Microsoft Azure that serves as a general 50
 </p>
 After entering information, click on Create to create the resource and wait for deployment to finish. To store data in the Storage Account, we need to create a container by going to the storage account you made and navigating to Containers under Data Storage. Click on (plus sign) Container and enter information in the window on the right
 </p>
-<img src="https://i.imgur.com/ZQCLlL1.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZQCLlL1.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 Use the Upload icon in the container to upload files in selected container. If the file is a coding language or txt file, you can edit its information in Azure
 </p>
-<img src="https://i.imgur.com/vYpAIK1.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vYpAIK1.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 </ul>
 </p>
@@ -122,6 +122,6 @@ When finished with using all the resources, its a best practice to delete all th
 </p>
 Go to the Resource Group section and select delete to open a window on the right. Deletion of the Resource Group requires verification by entering its name, also it deletes all the resources in that group
 </p>
-<img src="https://i.imgur.com/zaWbNLc.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zaWbNLc.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 This is the conclusion of the lab
